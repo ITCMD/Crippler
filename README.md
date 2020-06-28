@@ -1,5 +1,5 @@
 # THIS IS AN ARCHIVED PROJECT
-*features such as issues and updates are not available. This is no longer supported by ITCMD.
+*features such as issues and updates are not available. This is no longer supported by ITCMD*.
 
 ## Crippler
 Fake Computer crippler prank. IS NOT A REAL VIRUS
