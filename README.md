@@ -1,7 +1,10 @@
-# Crippler
+# THIS IS AN ARCHIVED PROJECT
+*features such as issues and updates are not available. This is no longer supported by ITCMD.
+
+## Crippler
 Fake Computer crippler prank. IS NOT A REAL VIRUS
 
-# TO STOP
+## TO STOP
 Once it has been started you can't stop the BSOD from coming up. But, while it is up do the following:
 
 Press Win+R to open run,
